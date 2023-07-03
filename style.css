@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  h2 {
+    margin-top: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-top: 10px;
+  }
+  
+  select,
+  input[type="checkbox"] {
+    margin-bottom: 10px;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+  
+  .container {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  #orderList {
+    margin-top: 50px;
+  }
+  
+  #orders {
+    list-style-type: none;
+  }
+  
+  #orders li {
+    margin-bottom: 10px;
+  }
+  
+  
+  
